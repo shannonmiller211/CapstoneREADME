@@ -153,10 +153,10 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-1. Shannon Miller - smiller7@drew.edu
-2. Damaris Zola - dzola@drew.edu
-3. Camryn Koch - ckoch@drew.edu
-4. Megan Hulmes - mhulmes@drew.edu
+ Shannon Miller - smiller7@drew.edu
+ Damaris Zola - dzola@drew.edu
+ Camryn Koch - ckoch@drew.edu
+ Megan Hulmes - mhulmes@drew.edu
 
 
 Project Link: [https://github.com/dzola1/chiantiFinal](https://github.com/dzola1/chiantiFinal)
