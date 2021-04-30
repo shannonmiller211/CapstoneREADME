@@ -86,7 +86,7 @@ Mr. G, the manager of Chianti, was scheduling shifts each week by hand, asking e
 
 ### Built With
 
-* [Django](https://django.com)
+* [Django](https://djangoproject.com)
 
 
 
@@ -161,9 +161,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Shannon Miller - smiller7@drew.edu
+Damaris Zola - dzola@drew.edu
+Camryn Koch - ckoch@drew.edu
+Megan Hulmes - mhulmes@drew.edu
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/dzola1/chiantiFinal](https://github.com/dzola1/chiantiFinal)
 
 
 
