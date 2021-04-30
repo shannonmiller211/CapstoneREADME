@@ -69,7 +69,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -151,20 +150,14 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Shannon Miller - smiller7@drew.edu
-Damaris Zola - dzola@drew.edu
-Camryn Koch - ckoch@drew.edu
-Megan Hulmes - mhulmes@drew.edu
+1. Shannon Miller - smiller7@drew.edu
+2. Damaris Zola - dzola@drew.edu
+3. Camryn Koch - ckoch@drew.edu
+4. Megan Hulmes - mhulmes@drew.edu
+
 
 Project Link: [https://github.com/dzola1/chiantiFinal](https://github.com/dzola1/chiantiFinal)
 
